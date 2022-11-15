@@ -1,0 +1,48 @@
+D:\Запись\Activity\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\bin\Debug\net5.0\3-100 calculate last.exe
+D:\Запись\Activity\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\bin\Debug\net5.0\3-100 calculate last.deps.json
+D:\Запись\Activity\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\bin\Debug\net5.0\3-100 calculate last.runtimeconfig.json
+D:\Запись\Activity\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\bin\Debug\net5.0\3-100 calculate last.runtimeconfig.dev.json
+D:\Запись\Activity\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\bin\Debug\net5.0\3-100 calculate last.dll
+D:\Запись\Activity\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\bin\Debug\net5.0\ref\3-100 calculate last.dll
+D:\Запись\Activity\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\bin\Debug\net5.0\3-100 calculate last.pdb
+D:\Запись\Activity\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.csproj.AssemblyReference.cache
+D:\Запись\Activity\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.GeneratedMSBuildEditorConfig.editorconfig
+D:\Запись\Activity\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.AssemblyInfoInputs.cache
+D:\Запись\Activity\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.AssemblyInfo.cs
+D:\Запись\Activity\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.csproj.CoreCompileInputs.cache
+D:\Запись\Activity\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.dll
+D:\Запись\Activity\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\obj\Debug\net5.0\ref\3-100 calculate last.dll
+D:\Запись\Activity\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.pdb
+D:\Запись\Activity\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.genruntimeconfig.cache
+D:\Наумов\Справочное\Фото\Учеба\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.csproj.AssemblyReference.cache
+D:\Наумов\Справочное\Фото\Учеба\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.GeneratedMSBuildEditorConfig.editorconfig
+D:\Наумов\Справочное\Фото\Учеба\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.AssemblyInfoInputs.cache
+D:\Наумов\Справочное\Фото\Учеба\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.AssemblyInfo.cs
+D:\Наумов\Справочное\Фото\Учеба\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.csproj.CoreCompileInputs.cache
+D:\Наумов\Справочное\Фото\Учеба\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.dll
+D:\Наумов\Справочное\Фото\Учеба\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\obj\Debug\net5.0\ref\3-100 calculate last.dll
+D:\Наумов\Справочное\Фото\Учеба\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.pdb
+D:\Наумов\Справочное\Фото\Учеба\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\bin\Debug\net5.0\3-100 calculate last.exe
+D:\Наумов\Справочное\Фото\Учеба\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\bin\Debug\net5.0\3-100 calculate last.deps.json
+D:\Наумов\Справочное\Фото\Учеба\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\bin\Debug\net5.0\3-100 calculate last.runtimeconfig.json
+D:\Наумов\Справочное\Фото\Учеба\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\bin\Debug\net5.0\3-100 calculate last.runtimeconfig.dev.json
+D:\Наумов\Справочное\Фото\Учеба\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\bin\Debug\net5.0\3-100 calculate last.dll
+D:\Наумов\Справочное\Фото\Учеба\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\bin\Debug\net5.0\ref\3-100 calculate last.dll
+D:\Наумов\Справочное\Фото\Учеба\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\bin\Debug\net5.0\3-100 calculate last.pdb
+D:\Наумов\Справочное\Фото\Учеба\Учеба\1-100\3\Last 3\3-100 calculate last\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.genruntimeconfig.cache
+C:\Users\Света\Desktop\Само\Calculate.v.1-main\3-100 calculate last\bin\Debug\net5.0\3-100 calculate last.exe
+C:\Users\Света\Desktop\Само\Calculate.v.1-main\3-100 calculate last\bin\Debug\net5.0\3-100 calculate last.deps.json
+C:\Users\Света\Desktop\Само\Calculate.v.1-main\3-100 calculate last\bin\Debug\net5.0\3-100 calculate last.runtimeconfig.json
+C:\Users\Света\Desktop\Само\Calculate.v.1-main\3-100 calculate last\bin\Debug\net5.0\3-100 calculate last.runtimeconfig.dev.json
+C:\Users\Света\Desktop\Само\Calculate.v.1-main\3-100 calculate last\bin\Debug\net5.0\3-100 calculate last.dll
+C:\Users\Света\Desktop\Само\Calculate.v.1-main\3-100 calculate last\bin\Debug\net5.0\ref\3-100 calculate last.dll
+C:\Users\Света\Desktop\Само\Calculate.v.1-main\3-100 calculate last\bin\Debug\net5.0\3-100 calculate last.pdb
+C:\Users\Света\Desktop\Само\Calculate.v.1-main\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.csprojAssemblyReference.cache
+C:\Users\Света\Desktop\Само\Calculate.v.1-main\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Света\Desktop\Само\Calculate.v.1-main\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.AssemblyInfoInputs.cache
+C:\Users\Света\Desktop\Само\Calculate.v.1-main\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.AssemblyInfo.cs
+C:\Users\Света\Desktop\Само\Calculate.v.1-main\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.csproj.CoreCompileInputs.cache
+C:\Users\Света\Desktop\Само\Calculate.v.1-main\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.dll
+C:\Users\Света\Desktop\Само\Calculate.v.1-main\3-100 calculate last\obj\Debug\net5.0\ref\3-100 calculate last.dll
+C:\Users\Света\Desktop\Само\Calculate.v.1-main\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.pdb
+C:\Users\Света\Desktop\Само\Calculate.v.1-main\3-100 calculate last\obj\Debug\net5.0\3-100 calculate last.genruntimeconfig.cache
